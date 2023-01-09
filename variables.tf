@@ -1,5 +1,4 @@
 locals {
-type = map
   subnets = length(data.aws_availability_zones.available.names)
 }
 
