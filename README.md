@@ -1,9 +1,11 @@
 # Custom VPC module
 
 This is a custom VPC module in which following are created.
-> Internet Gateway
-> Subnets
-> Elastic IP
-> NAT Gateway 
-> Route tables
-> Routetable associations
+```sh
+ Internet Gateway </br>
+ Subnets </br>
+ Elastic IP </br>
+ NAT Gateway </br>
+ Route tables </br>
+ Routetable associations </br>
+```
