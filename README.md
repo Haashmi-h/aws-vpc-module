@@ -27,4 +27,4 @@ Route table associations are also setup using the meta argument "count" with bot
   </br>
  These are the basic features in this VPC module.
   </br>
-FYI, this can be applied for the scenarios like  [Three-tier wordpress deployment]( https://github.com/Haashmi-h/Terraform-script-to-host-a-website )
+FYI, this can be applied for the scenarios like  [Three-tier wordpress deployment](https://github.com/Haashmi-h/Terraform-script-to-host-a-website-)
