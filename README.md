@@ -1,6 +1,8 @@
 # Custom VPC module
 
 ***This is a custom VPC module in which following are created.*** </br>
+ </br>
+  </br>
 
 > Internet Gateway </br>
 > Subnets </br>
@@ -9,7 +11,6 @@
 > Route tables </br>
 > Routetable associations </br>
  </br>
-</br>
 
 This is created for multi tier deployments. </br>
  </br>
@@ -26,4 +27,4 @@ Route table associations are also setup using the meta argument "count" with bot
   </br>
  These are the basic features in this VPC module.
   </br>
-FYI, this can be applied for the scenarios like  [Three-tier wordpress deployment](https://github.com/Haashmi-h/Terraform-script-to-host-a-website)
+FYI, this can be applied for the scenarios like  [Three-tier wordpress deployment]( https://github.com/Haashmi-h/Terraform-script-to-host-a-website )
